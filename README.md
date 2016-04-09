@@ -34,6 +34,5 @@ v1/v2 are the same.<br>
 sort():O(n log n)<br>
 insert_sort():O(n^2)<br>
 <br>
-when size=1000000,
-insert_sort() almost took 4 hours to finish.
-It was very very long.
+When size=1000000, insert_sort() almost took 4 hours to finish.<br>
+It was very very long.<br>
