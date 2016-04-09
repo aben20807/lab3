@@ -25,10 +25,15 @@ v1/v2 are the same.<br>
 <br>
 size=1000000<br>
 <br>
-sort():0.53seconds<br>
+sort():0.52seconds<br>
 v1/v2 are different.<br>
-....<br>
-too long....<br>
+insert_sort():12816.9seconds<br>
+v1/v2 are the same.<br>
+
 <br>
 sort():O(n log n)<br>
 insert_sort():O(n^2)<br>
+<br>
+when size=1000000,
+insert_sort() almost took 4 hours to finish.
+It was very very long.
